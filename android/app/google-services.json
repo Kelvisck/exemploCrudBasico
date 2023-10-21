@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "688130413209",
+    "project_id": "crudibasico",
+    "storage_bucket": "crudibasico.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688130413209:android:4f355ad9482b57fa435e08",
+        "android_client_info": {
+          "package_name": "com.example.crudbasico"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmJiQyTrhreJRnQWN737XL1oFk-oR7fSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
